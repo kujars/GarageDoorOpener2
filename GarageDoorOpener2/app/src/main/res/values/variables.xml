@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_name">user_name</string>
+    <string name="def_un">def_un</string>
+    <string name="password">password</string>
+    <string name="ip_address">ip_address</string>
+    <string name="port">port</string>
+    <string name="ping">ping</string>
+    <string name="vpn_name">vpn_name</string>
+    <string name="vpn_nd">vpn_nd</string>
+    <string name="doorstatus">doorstatus</string>
+    <string name="gdsensorp">gdsensorp</string>
+    <string name="gdopenp">gdopenp</string>
+    <string name="gdopenpol">gdopenpol</string>
+    <string name="gdstat">gdstat</string>
+    <string name="gdsensorpol">gdsensorpol</string>
+    <string name="vpnprof">vpnprof</string>
+    <string name="statusbar">No Message</string>
+    <string name="on" />
+    <string name="off" />
+</resources>
